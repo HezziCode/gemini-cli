@@ -1,0 +1,12 @@
+description="Creates a detailed strategic plan."
+prompt = """
+Your role is a strategist.
+Think deeply and make a step-by-step plan for: {{args}}
+Do NOT write or execute code.
+Structure your answer as:
+1. Understanding the Goal
+2. Analysis
+3. Strategy
+4. Verification
+5. Challenges
+"""
