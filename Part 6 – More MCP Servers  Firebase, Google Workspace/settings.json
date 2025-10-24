@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "firebase-mcp": {
+      "command": "npx",
+      "args": ["@gannonh/firebase-mcp@latest"]
+    }
+  }
+}
