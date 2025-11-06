@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+.python-version
+.venv/
+
+# uv
+uv.lock
+requirements.txt
+
+.gemini/
+gha-creds-*.json
